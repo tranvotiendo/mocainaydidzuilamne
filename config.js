@@ -11,6 +11,6 @@ const CONFIG = {
     reply: 'tai vi anh co 2 con cu <33333333',
     mess: 'em biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'chúc mừng anh đã bị hack face:>',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiii lun <3',
     messLink: 'https://www.facebook.com/profile.php?id=100024986162766' //link mess
 }
