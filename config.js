@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'gửi cho tdoo <3',
     reply: 'tai vi anh co 2 con cu <33333333',
     mess: 'em biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'ôm cái đỡ buồn nè:>',
+    messDesc: 'chúc mừng anh đã bị hack face:>',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com/tranvotiendo' //link mess
 }
